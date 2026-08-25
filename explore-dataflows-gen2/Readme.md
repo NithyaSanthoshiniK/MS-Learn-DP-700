@@ -6,6 +6,7 @@
 This module explores the authoring environment of **Dataflows Gen2** in Microsoft Fabric, focusing on the Data Factory workload experience, interface components, and supported data destinations.
 
 ---
+<img width="3847" height="7937" alt="NotebookLM Mind Map (1)" src="https://github.com/user-attachments/assets/774c1fc9-f193-4cc8-93eb-0d9f4935ff4d" />
 
 ### 1. Where to Create Dataflows Gen2
 In Microsoft Fabric, you can create a Dataflow Gen2 from multiple entry points:
