@@ -57,4 +57,5 @@ Before choosing Dataflows Gen2, it is crucial to weigh its advantages against it
 * **No Row-Level Security (RLS):** RLS is not supported within the dataflow itself (this must be handled at the destination level, such as the warehouse or semantic model).
 * **Workspace Constraint:** A **Fabric capacity workspace** is strictly required to create and run Dataflows Gen2.
 
-<img width="2788" height="5337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/92b78adc-4dbb-4f0a-bc17-1551cd8d3ec6" />
+<img width="3791" height="6237" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/5a550931-a216-4aeb-aad9-ac15f18f56bd" />
+
