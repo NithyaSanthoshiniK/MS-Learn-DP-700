@@ -7,6 +7,8 @@ This module covers the core concepts, usage patterns, benefits, and limitations 
 
 ---
 
+<img width="2752" height="1536" alt="Modern_Data_Transformation_Guide" src="https://github.com/user-attachments/assets/9c5435c2-6b5c-44b3-996e-2df35637cf3f" />
+
 ### 1. What is a Dataflow?
 **Dataflows** are cloud-based ETL (Extract, Transform, Load) tools designed for building and executing scalable data transformation processes. 
 
@@ -54,3 +56,5 @@ Before choosing Dataflows Gen2, it is crucial to weigh its advantages against it
 * **Not a Data Warehouse Replacement:** Dataflows Gen2 are transformation tools, not dedicated data warehouses.
 * **No Row-Level Security (RLS):** RLS is not supported within the dataflow itself (this must be handled at the destination level, such as the warehouse or semantic model).
 * **Workspace Constraint:** A **Fabric capacity workspace** is strictly required to create and run Dataflows Gen2.
+
+<img width="2788" height="5337" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/92b78adc-4dbb-4f0a-bc17-1551cd8d3ec6" />
